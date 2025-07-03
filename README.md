@@ -1,8 +1,12 @@
 # E-commerce-Dashboard
 In e-commerce, analytics is essential for informed decision-making and strategy optimization. The objective of this project is to analyze and visualize the sales performance of an e-commerce business using SQL for data extraction and transformation, and Power BI for building an interactive dashboard. 
 
-## Datasets: 
 ## SQL queries : https://github.com/thariniselvakumar/E-commerce-Dashboard/blob/main/Analysis.sql 
+
+
+## Power BI report 
+![image](https://github.com/user-attachments/assets/6b4a6f2b-7083-41d4-b499-92827f137078)
+
 ## Findings :
 1.Beauty & Health category generates the highest revenue
 
